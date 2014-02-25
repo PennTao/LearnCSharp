@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hannoi", "Hannoi\Hannoi.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyQueue", "MyQueue\MyQueue.csproj", "{2D5611FD-B199-4FF8-B383-6B68F66B43C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAStackAscending", "SortAStackAscending\SortAStackAscending.csproj", "{36F0ECA0-DA2F-41C7-84EF-624EB18CA9CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{2D5611FD-B199-4FF8-B383-6B68F66B43C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D5611FD-B199-4FF8-B383-6B68F66B43C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D5611FD-B199-4FF8-B383-6B68F66B43C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36F0ECA0-DA2F-41C7-84EF-624EB18CA9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36F0ECA0-DA2F-41C7-84EF-624EB18CA9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36F0ECA0-DA2F-41C7-84EF-624EB18CA9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36F0ECA0-DA2F-41C7-84EF-624EB18CA9CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
