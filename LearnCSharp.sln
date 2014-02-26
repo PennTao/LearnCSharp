@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAStackAscending", "Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckTreeBalance", "CheckTreeBalance\CheckTreeBalance.csproj", "{4A758406-C38C-4F5B-BBFE-A2AEEC4929E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateBST", "CreateBST\CreateBST.csproj", "{505365AB-F455-41AF-87F0-54F246CA68FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{4A758406-C38C-4F5B-BBFE-A2AEEC4929E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A758406-C38C-4F5B-BBFE-A2AEEC4929E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A758406-C38C-4F5B-BBFE-A2AEEC4929E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505365AB-F455-41AF-87F0-54F246CA68FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505365AB-F455-41AF-87F0-54F246CA68FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505365AB-F455-41AF-87F0-54F246CA68FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505365AB-F455-41AF-87F0-54F246CA68FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
