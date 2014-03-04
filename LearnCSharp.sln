@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindNextNodeInTree", "FindN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonAncestor", "CommonAncestor\CommonAncestor.csproj", "{1F68B1CA-E1BF-411D-97BB-773B328EEC8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSubTree", "CheckSubTree\CheckSubTree.csproj", "{ED57D41A-9531-402D-9681-44C46D9C70A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{1F68B1CA-E1BF-411D-97BB-773B328EEC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F68B1CA-E1BF-411D-97BB-773B328EEC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F68B1CA-E1BF-411D-97BB-773B328EEC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED57D41A-9531-402D-9681-44C46D9C70A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED57D41A-9531-402D-9681-44C46D9C70A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED57D41A-9531-402D-9681-44C46D9C70A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED57D41A-9531-402D-9681-44C46D9C70A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
