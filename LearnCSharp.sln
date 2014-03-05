@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSubTree", "CheckSubTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClimbStairs", "ClimbStairs\ClimbStairs.csproj", "{077003C7-8775-4253-96FE-019A262903D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridTotalPath", "GridTotalPath\GridTotalPath.csproj", "{BC252031-5541-48AD-8F07-4B4A5460B2DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{077003C7-8775-4253-96FE-019A262903D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{077003C7-8775-4253-96FE-019A262903D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{077003C7-8775-4253-96FE-019A262903D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC252031-5541-48AD-8F07-4B4A5460B2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC252031-5541-48AD-8F07-4B4A5460B2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC252031-5541-48AD-8F07-4B4A5460B2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC252031-5541-48AD-8F07-4B4A5460B2DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
