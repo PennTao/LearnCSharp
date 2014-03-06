@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicIndex", "MagicIndex\Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetAllSubsets", "GetAllSubsets\GetAllSubsets.csproj", "{6CA2BAAA-221A-4B03-BEA4-3573A68C535D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetStrPermutation", "GetStrPermutation\GetStrPermutation.csproj", "{100A49B0-3BC4-42AC-81CA-5F6D8AE24111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{6CA2BAAA-221A-4B03-BEA4-3573A68C535D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CA2BAAA-221A-4B03-BEA4-3573A68C535D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CA2BAAA-221A-4B03-BEA4-3573A68C535D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{100A49B0-3BC4-42AC-81CA-5F6D8AE24111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100A49B0-3BC4-42AC-81CA-5F6D8AE24111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100A49B0-3BC4-42AC-81CA-5F6D8AE24111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100A49B0-3BC4-42AC-81CA-5F6D8AE24111}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
