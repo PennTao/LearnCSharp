@@ -11,7 +11,7 @@ namespace PaintFill
 
         static void Main(string[] args)
         {
-            
+            int[,] canvas = new int[4,4];
         }
         static void Fill(ref int[,] canvas, int oColor, int dColor, int x, int y)
         {
