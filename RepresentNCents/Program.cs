@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*Problem 9.8 You have unlimited number of pennies, nickels, dimes and quarters, find all possible ways to get N cents*/
+/*Problem 9.8 Y ou have unlimited number of pennies, nickels, dimes and quarters, find all possible ways to get N cents*/
 namespace RepresentNCents
 {
     class Program
