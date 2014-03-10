@@ -5,7 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*Solve Eight Queens problem*/
+/*Solve Eight Queens problem
+ test the results here http://www.brainmetrix.com/8-queens/ */
 namespace EightQueens
 {
     class Program
