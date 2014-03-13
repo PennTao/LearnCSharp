@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParenthesBoolExpression", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeArray", "MergeArray\MergeArray.csproj", "{6BF8D75B-9DE9-44C5-8D01-CBFFA7FB5F28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAnagramStringList", "SortAnagramStringList\SortAnagramStringList.csproj", "{F3952B51-2835-41FD-9BB6-18C6102A7DDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,10 @@ Global
 		{6BF8D75B-9DE9-44C5-8D01-CBFFA7FB5F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BF8D75B-9DE9-44C5-8D01-CBFFA7FB5F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BF8D75B-9DE9-44C5-8D01-CBFFA7FB5F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3952B51-2835-41FD-9BB6-18C6102A7DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3952B51-2835-41FD-9BB6-18C6102A7DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3952B51-2835-41FD-9BB6-18C6102A7DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3952B51-2835-41FD-9BB6-18C6102A7DDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

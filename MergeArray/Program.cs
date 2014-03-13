@@ -51,7 +51,7 @@ namespace MergeArray
                 if (lenA >= 0)
                 {
                     if (A[lenA] >= B[lenB])
-                    {
+                    { 
                         A[lenA + lenB + 1] = A[lenA];
                         lenA--;
                     }
